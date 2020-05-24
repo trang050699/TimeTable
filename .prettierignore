@@ -1,0 +1,7 @@
+node_modules/**
+android/**
+ios/**
+__tests__/**
+dist/**
+.expo/**
+.expo-shared/**
