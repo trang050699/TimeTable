@@ -1,11 +1,10 @@
 # TimeTable
-TimeTable
 Thành viên trong nhóm:
-Nguyễn Thị Minh Trang - 17021077
-Nguyễn Quang Huy - 16021000
-Nguyễn Quang Huy - 16020999
-Ngô Xuân Thắng - 17021027
-Phạm Minh Đức - 17020700
+#Nguyễn Thị Minh Trang - 17021077
+#Nguyễn Quang Huy - 16021000
+#Nguyễn Quang Huy - 16020999
+#Ngô Xuân Thắng - 17021027
+#Phạm Minh Đức - 17020700
 
 Giới thiệu ứng dụng
 
