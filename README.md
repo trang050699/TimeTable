@@ -20,3 +20,6 @@ Quản lý chi tiết từng loại
 Các công nghệ sử dụng
 React-native
 firebase
+
+Link file apk:
+https://github.com/trang050699/TimeTable/blob/master/TimeTable.apk?raw=true
